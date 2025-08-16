@@ -1,4 +1,4 @@
-##  :star:TextToSQL
+##  :star:Text To SQL
 
 This project takes a user input as a prompt and outputs a CSV file with the data returned from the PostgreSQL database.
 
