@@ -1,0 +1,7 @@
+crewai
+langchain-groq
+langchain-community
+sqlalchemy
+psycopg2-binary
+python-dotenv
+langchain-ollama
